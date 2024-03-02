@@ -1,0 +1,5 @@
+    resume_pressed_image = pygame.image.load("images/resume_pressed.png").convert_alpha()
+    paused_rect = paused_nor_image.get_rect()
+    paused_rect.left, paused_rect.top = width - paused_rect.width -10, 10
+    paused_image = paused_nor_image
+ 
