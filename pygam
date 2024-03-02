@@ -1,0 +1,4 @@
+    paused = False
+    paused_nor_image = pygame.image.load("images/pause_nor.png").convert_alpha()
+    pause_pressed_image = pygame.image.load("images/pause_pressed.png").convert_alpha()
+    resume_nor_image = pygame.image.load("images/resume_nor.png").convert_alpha()
