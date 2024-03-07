@@ -1,0 +1,7 @@
+       for (Point position : selected) {
+            Point p = indextoScreen(position.x, position.y);
+            if (map[position.x][position.y] >= 1) {
+                canvas.drawBitmap(icons[map[position.x][position.y]], null,
+                        new Rect(p.x - 5, p.y - 5, p.x + iconSize + 5, p.y
+                                + iconSize + 5), null);
+            }
