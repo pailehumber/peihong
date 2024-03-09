@@ -1,0 +1,5 @@
+						clrscr();
+						puts("=========================================");
+						puts("|  Your Credit money is $50,Thank you!  |");
+						puts("|         Press any key to return...    |");
+						puts("============
