@@ -1,0 +1,8 @@
+						getch();
+						break;
+					case '2':
+						clrscr();
+						puts("==========================================");
+						puts("|  Your Credit money is $100,Thank you!  |");
+						puts("|         Press any key to return...     |");
+						puts("==========
