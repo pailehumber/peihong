@@ -1,0 +1,2 @@
+pause_rect = pause_image.get_rect()        
+print(pause_rect.width,pause_rect.height)  
