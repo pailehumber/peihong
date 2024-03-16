@@ -1,0 +1,4 @@
+pygame.mixer.music.play()                    
+bg_size = width, height = 300, 200            
+bg_rgb = (255, 255, 255)
+screen1 = pygame.display.set_mode(bg_size)
