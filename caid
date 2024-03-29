@@ -1,0 +1,4 @@
+ public void CarPark(int id, String carid) {
+  // TODO Auto-generated method stub
+  this.id = id;
+  this.state = carid;
